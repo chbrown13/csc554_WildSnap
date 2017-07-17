@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    style="?android:attr/spinnerItemStyle"
+    android:singleLine="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:ellipsize="marquee"
+    android:gravity="center_vertical|end"
+    android:paddingTop="3dp"
+    android:paddingBottom="3dp" /><!-- From: file:/C:/Users/Christa/Downloads/CameraSDK_v1.0.0/Samples/Camera/Application/src/main/res/layout/spinner_item.xml -->

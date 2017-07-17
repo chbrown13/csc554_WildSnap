@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\libs\camera-v1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8a937241f56559e54c937b666e534945a91574df">
+        <dex dex="C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\build\intermediates\pre-dexed\debug\camera-v1.0.0-9f977f604941a44499848530fb9eb948ebfc1e8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\libs\sdk-v1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e2ce3786b6e9519934c4a54aaaaf39525bf4486c">
+        <dex dex="C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\build\intermediates\pre-dexed\debug\sdk-v1.0.0-0ed057a9c168ce8eb2f00ed392c1fe4ce9833da7.jar" />
+    </item>
+
+</items>

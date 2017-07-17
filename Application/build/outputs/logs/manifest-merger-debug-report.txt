@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:2:1-62:12
+	xmlns:android
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:3:5-52
+	android:versionName
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:5:5-32
+	android:versionCode
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:8:9-35
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:12:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:14:22-78
+uses-permission#com.samsung.android.provider.filterprovider.permission.READ_FILTER
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:15:5-106
+	android:name
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:15:22-103
+uses-permission#com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:16:5-117
+	android:name
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:16:22-114
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:18:5-83
+	android:name
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:18:30-80
+application
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:20:5-60:19
+	android:label
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:23:9-41
+	android:allowBackup
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:22:9-43
+	android:theme
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:24:9-40
+activity#com.samsung.android.sdk.camera.sample.CameraSDK_Sample
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:27:13-69
+	android:name
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:26:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:31:27-74
+activity#com.samsung.android.sdk.camera.sample.cases.Sample_Single
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:34:9-36:72
+	android:label
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:36:13-69
+	android:name
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:35:13-48
+activity#com.samsung.android.sdk.camera.sample.cases.SavePicturePage
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:37:9-39:72
+	android:label
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:39:13-69
+	android:name
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:38:13-50
+activity#com.samsung.android.sdk.camera.sample.cases.ProfilePage
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:42:13-46
+	android:name
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:41:13-46
+activity#com.samsung.android.sdk.camera.sample.cases.Notifications
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:46:13-46
+	android:name
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:45:13-48
+activity#com.samsung.android.sdk.camera.sample.cases.PicturePage
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:50:13-46
+	android:name
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:49:13-46
+activity#com.samsung.android.sdk.camera.sample.cases.SearchPage
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:52:9-55:20
+	android:label
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:54:13-46
+	android:name
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:53:13-45
+activity#com.samsung.android.sdk.camera.sample.cases.HomePage
+ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:56:9-59:20
+	android:label
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:58:13-46
+	android:name
+		ADDED from C:\Users\Christa\Downloads\CameraSDK_v1.0.0\Samples\Camera\Application\src\main\AndroidManifest.xml:57:13-43

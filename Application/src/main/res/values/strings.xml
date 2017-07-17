@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WildSnap</string>
+    <string name="title_activity_camera_sdk_sample">WildSnap</string>
+    <string name="button_title_picture">TAKE</string>
+    <string name="button_title_record">RECORD</string>
+    <string name="button_title_stop">STOP</string>
+    <string name="button_title_select_image">SELECT IMAGE</string>
+    <string name="button_title_select_filter">SELECT FILTER</string>
+    <string name="button_title_process_bitmap">PROCESS(BITMAP)</string>
+    <string name="button_title_process_file">PROCESS(FILE)</string>
+    <string name="button_title_setting">SETTINGS</string>
+    <string name="button_title_info">INFO</string>
+    <string name="user_name">Chris Brown</string>
+    <string name="user_bio">Hello, this is our WildSnap project for CSC 554 by Christa Cody, Nicholas Mignotte, and Chris Brown.</string>
+    <string name="user_location">Rock Hill, SC</string>
+    <string name="user_current_location">Raleigh, NC</string>
+    <string name="user_wildsnap_stat">Nature King</string>
+    <string name="identify_pic_object">Identified: Squirrel</string>
+
+</resources>
